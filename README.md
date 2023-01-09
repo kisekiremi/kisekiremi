@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🌱 I’m currently Working on FE and learning for (balabala) & etc.
+### 🌱 I’m currently Working on FE and learning for Golang/Japanese & etc.
 
 <!--
 **kisekiremi/kisekiremi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
