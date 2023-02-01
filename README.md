@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently Working on FE and learning for Golang/Japanese & etc.
-  [![HitCount](https://hits.dwyl.com/kisekiremi/kisekiremi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kisekiremi/kisekiremi)
-<!--
+
+![visitorCount](https://vbr.wocr.tk/badge?page_id=kisekiremi&color=55acb7&style=for-the-badge&logo=Github)
+ 
+<!-- 
 **kisekiremi/kisekiremi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ [![HitCount](https://hits.dwyl.com/kisekiremi/kisekiremi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kisekiremi/kisekiremi)
 
 Here are some ideas to get you started:
 
