@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### 🌱 I’m currently Working on FE and learning for Golang/Japanese & etc.
-
+  [![HitCount](https://hits.dwyl.com/kisekiremi/kisekiremi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kisekiremi/kisekiremi)
 <!--
 **kisekiremi/kisekiremi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
