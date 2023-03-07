@@ -2,8 +2,8 @@
 
 ### 🌱 I’m currently Working on FE and learning for Golang/Japanese & etc.
 
-![visitorCount](https://vbr.wocr.tk/badge?page_id=kisekiremi&color=55acb7&style=for-the-badge&logo=Github)
- 
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=kisekiremi" />
+
 <!-- 
 **kisekiremi/kisekiremi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  [![HitCount](https://hits.dwyl.com/kisekiremi/kisekiremi.svg?style=flat-square&show=unique)](http://hits.dwyl.com/kisekiremi/kisekiremi)
