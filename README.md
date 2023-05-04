@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I’m currently ⚡ Working on web FE & node.js a bit & 🌱 learning Golang/Japanese/IELTS & 💬 etc.
+### I’m currently ⚡ Working on web FE & node.js a bit & 🌱 learning RN/Golang/JP-lang/IELTS & 💬 etc.
 
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=kisekiremi" />
 
