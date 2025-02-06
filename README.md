@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I’m currently ⚡ Working on web FE & node.js a bit & 🌱 learning RN/JP-lang/IELTS & 💬 etc.
+### I’m currently ⚡ Working on web FE & node.js a bit & 🌱 learning Unity 💬(hopefully go far).
 
 <!-- visit log example -->
 <!-- ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-999+-blue) -->
