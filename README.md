@@ -4,7 +4,7 @@
 
 <!-- visit log example -->
 <!-- ![Profile Views](http://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%B0%81%E9%9D%A2%E8%A7%82%E7%9C%8B%E6%AC%A1%E6%95%B0-999+-blue) -->
-<img align="right" src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/kisekiremi/kisekiremi.json?color=pink" />
+<img align="right" src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/kisekiremi/kisekiremi.json&color=pink" />
 
 <!-- 
 「kisekiremi/kisekiremi」 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
