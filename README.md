@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I’m currently ⚡ Working on web FE & node.js a bit & 🌱 learning Unity 💬(hopefully go far).
+### I’m currently ⚡ Working on web FE & node.js a bit & 🌱 learning how to enjoy life.
 
 <!-- 
 「kisekiremi/kisekiremi」 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
