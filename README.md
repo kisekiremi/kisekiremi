@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- total log -->
-<img src="https://github-readme-stats.vercel.app/api?username=kisekiremi&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kisekiremi&color=blueviolet&style=flat-square&label=Profile+Views+(since 2/13/2026)" alt="Profile Views since Feb 13, 2026"/>
+</p>
