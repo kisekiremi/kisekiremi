@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 <!-- total log -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kisekiremi&color=blueviolet&style=flat-square&label=Profile+Views+(since 2/13/2026)" alt='' />
+  <img src="https://komarev.com/ghpvc/?username=kisekiremi&color=blueviolet&style=for-the-badge&label=Profile+Views+(since 2/13/2026)" alt='' />
 </p>
