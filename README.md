@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I’m currently ⚡ Working on web FE & RN/electron/... a bit & 🌱 learning how to enjoy life.
+### I’m currently ⚡ Working on web FE and make a few node server, interest in React Native/Electron/AOSP/Golang/...（lots of other things） & 🌱 learning how to enjoy life.
 
 <!-- 
 「kisekiremi/kisekiremi」 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- total log -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kisekiremi&color=blueviolet&style=for-the-badge&label=Profile+Views+(since 2/13/2026)" alt='' />
-</p>
